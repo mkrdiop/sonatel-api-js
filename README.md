@@ -170,5 +170,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-- Orange Sonatel for their API documentation and services
+- Orange Sonatel for their API documentation and services : https://developer.orange-sonatel.com/documentation
 - The JavaScript community for inspiration and best practices
